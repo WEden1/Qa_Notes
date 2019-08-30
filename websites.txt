@@ -1,0 +1,15 @@
+--wireframe.cc/ draw.io--
+
+functional before fancy
+
+--trello.com--
+
+User story - as a.. i want.. so that... 
+Two tables - supergroup and existing bands 
+
+Tings to be done 
+tings done
+
+--frontend--
+
+javascript, bootstrap, spring html, css 

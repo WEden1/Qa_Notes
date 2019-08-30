@@ -1,0 +1,46 @@
+Java
+
+___Member____
+
+---variable---
+
+reference to an location in memory
+
+---method---
+
+set of instructions - procedure
+
+
+____notes_____
+
+; dictate line breaks
+ctr space  autocomplete
+
+---scope---
+
+class
+
+public static variable/method is in class scope. 
+(least)priority 3.
+
+
+method
+
+only accessible in method
+priority 2
+
+loop
+
+priority 1
+
+&& and &
+
+|| or |
+
+i++ use then increment
+++i increment then use
+
+for -- when we know how many times we want to loop;
+while -- when we  don't know how many times we want to loop;
+
+

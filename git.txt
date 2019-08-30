@@ -1,0 +1,21 @@
+Git_____
+
+----make repository---
+
+git init
+git .ignore - ad files to ignore
+git add - add files to commit
+git add . - add all files
+git commit -m "" - save files
+git remote add remote origin URL
+git push origin master 
+
+git log - shows commits made
+git status - shows files to be commited
+
+# title 1
+## title 2
+### title 3
+
+___Peer Programming___
+

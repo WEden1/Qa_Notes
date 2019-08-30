@@ -1,0 +1,54 @@
+Build Tools
+
+
+Make
+
+-first build tool for java introduced in 1976
+
+Ant
+
+Pros
+-introduced to fit better with c programming conventions. 
+-simple to use
+
+Cons
+
+-uses another program, apache ivy for dependency managment 
+-Xml script can become unmanagably big when working on large project because of its 
+procedural programming aprroach
+  
+
+Gradle
+
+Pros
+
+-Becoming increasingly popular
+-combines the flexibility of Ant with the structured approach of Maven 
+-Uses Groovy lang makes it OOP which makes it more managable 
+and gives it more flexibility than maven and ant
+
+-shorter and more managable scripts in Groovy
+-Lots of plugins available
+-intigrates well with maven, ant.
+-Foremost a dependencies tool 
+
+Cons
+
+Groovy means Large builds can be slower to build
+
+Maven
+
+Pros 
+-
+-project object managment file integrated build and dependency managment
+-strict project structure
+
+
+Cons
+
+Xml script can become unmanagably big when working on large project because of its 
+procedural programming aprroach
+
+strict structure means less flexible than ant and Gradle
+
+

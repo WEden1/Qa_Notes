@@ -1,0 +1,19 @@
+smoke testing - confidence tesing
+
+minimal..
+
+sanity check done by development team before sending to QA
+
+smoke tests done by QA team, they find the major functions of the app and check for issues
+
+finds problems early - stops problems being found late
+
+usually done manually
+
+saves test effort and time
+
+selenium
+
+
+-------seven testing principles------
+

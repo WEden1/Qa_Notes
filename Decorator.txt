@@ -1,0 +1,19 @@
+Decorator Pattern
+
+Structural design -
+
+uses recurssion, inhe5ritance and interfaces to add functionality
+to a class at run time, either statically or dynamically without
+altering the original classes structure.
+
+We use it when:
+
+- add to the behavior or state of an object
+- modify a single object without altering others
+
+super interface
+
+ 
+
+
+ 

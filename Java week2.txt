@@ -1,0 +1,78 @@
+java week 2
+
+error - causes exception in the code which if 
+bug - continues execution - finding unexpected results
+checked exception - anticipate before 
+un checked exception - 
+
+try catch finally
+
+debugging
+
+line by line - break point
+
+S single responsibility
+O open/closed
+L Liskov
+I Interface segregation
+D Dependency inversion
+
+f5 step into
+f6 step over methds
+f7 continue till end of method/loop
+f8 continue
+
+
+----Java Database Connection--JDBC API
+
+C reate
+R ead
+U pdate
+D elete
+
+database - persistance layer
+
+use single quotes when passing sql language as Strings
+
+Classes
+
+Connection - .createStatment() .close()
+DriverManger - getConnection(DB_URL, USER, PASS)
+Statment - .executeQuery() .executeUpdate()
+ResultSet - .close()
+
+--SQL--
+
+fields - not column
+records - not row
+
+---key words---
+SELECT
+FROM
+INSERT
+INTO
+IN
+VALUES()
+SET
+WHERE
+UPDATE
+AND
+OR
+USE
+TABLE
+
+--types--
+
+VARCHAR
+INT
+
+PRIMARY KEY
+AUTO_INCREMENT
+UNIQUE
+
+
+
+
+ 
+
+

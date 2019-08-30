@@ -1,0 +1,16 @@
+package manager
+
+
+-----redhat-----
+
+yum -install <software>
+
+-----debian------
+
+apt -install <software>
+ubuntu
+
+cat - contents of file
+man - help
+-a - all including hidden
+-la - list all including hidden 

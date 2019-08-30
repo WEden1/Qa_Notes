@@ -1,0 +1,24 @@
+Git 
+
+keeps track of changes made - time/commit messages.
+
+stage - git add
+commit - records changes to local repository
+push - pushes changes to remote repository
+
+git clone -clones
+git push - push back to original repo
+
+git fork - copy to play with on your github
+
+development branch
+git branch - check which branch
+git branch - d - delete branch
+git merge - merge branches
+git checkout - work on branch
+checkout 
+merge to master and to development branch
+
+Head - most recent commit to remote branch
+
+

@@ -1,0 +1,19 @@
+Devops
+
+eliminate waste
+automation
+feedback 
+
+continuous integration - automating testing before merging to main branch - done as much as possible 
+''	development - automating the release process by clicking button
+'' 	deployment - uses feedback from customers. like delivery but atomated 
+
+
+
+Develper= Src Code <------------------> VCS <---> Project Tracking/trello
+	  				|
+Devops=   Email Server/report		CI Server/jenkins <----> build tools/maven <---> test
+	  to developers			|
+				artefact repository
+					|
+Testing=  			Test Environment -----> Staging Environment -----> Live Environment
